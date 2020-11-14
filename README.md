@@ -4,7 +4,7 @@
 
 Modulo: **Web/Cloud services**
 
-Docente: **Jacopo Soldani**, Università di Pisa [http://pages.di.unipi.it/soldani]
+Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/soldani](http://pages.di.unipi.it/soldani))
 
 ## Lezioni
 
