@@ -12,3 +12,8 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 *Argomenti*: introduzione al cloud computing, cenni di Java, Hello World
 
 *Esercizi*: [HelloWorld](https://github.com/cybersec-system-cloud/hello-world)
+
+### Lezione 2 (07/12/2020 - 4h)
+*Argomenti*: introduzione a Java, cenni di programmazione a oggetti
+
+*Esercizi*: [Orario](https://github.com/cybersec-system-cloud/orario-americano)
