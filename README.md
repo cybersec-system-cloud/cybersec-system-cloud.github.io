@@ -17,3 +17,8 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 *Argomenti*: introduzione a Java, cenni di programmazione a oggetti
 
 *Esercizi*: [Orario](https://github.com/cybersec-system-cloud/orario-americano)
+
+### Lezione 2 (07/12/2020 - 4h)
+*Argomenti*: programmazione a oggetti  
+
+*Esercizi*: [StampaNumeriArrayList](https://github.com/cybersec-system-cloud/StampaNumeriArrayList)
