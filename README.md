@@ -18,7 +18,7 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 
 *Esercizi*: [Orario](https://github.com/cybersec-system-cloud/orario-americano)
 
-### Lezione 2 (07/12/2020 - 4h)
+### Lezione 3 (14/12/2020 - 4h)
 *Argomenti*: programmazione a oggetti  
 
 *Esercizi*: [StampaNumeriArrayList](https://github.com/cybersec-system-cloud/StampaNumeriArrayList)
