@@ -26,4 +26,4 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 ### Lezione 4 (11/01/2021 - 4h)
 *Argomenti*: programmazione di servizi REST
 
-*Esercizi*: [Punteggi](https://github.com/cybersec-system-cloud/Punteggi), [Inventario](https://github.com/cybersec-system-cloud/Inventario), 
+*Esercizi*: [Punteggi](https://github.com/cybersec-system-cloud/Punteggi), [Inventario](https://github.com/cybersec-system-cloud/Inventario)
