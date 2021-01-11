@@ -22,3 +22,8 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 *Argomenti*: programmazione a oggetti  
 
 *Esercizi*: [StampaNumeriArrayList](https://github.com/cybersec-system-cloud/StampaNumeriArrayList)
+
+### Lezione 4 (11/01/2021 - 4h)
+*Argomenti*: programmazione di servizi REST
+
+*Esercizi*: [Punteggi](https://github.com/cybersec-system-cloud/Punteggi), [Inventario](https://github.com/cybersec-system-cloud/Inventario), 
