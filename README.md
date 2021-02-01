@@ -32,3 +32,8 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 *Esercitazione*: programmazione di servizi REST
 
 *Esercizi*: [Rubrica](https://github.com/cybersec-system-cloud/rubrica), [LoveCalculator](https://github.com/cybersec-system-cloud/lovecalculator), [Calcolatrice](https://github.com/cybersec-system-cloud/calcolatrice), [Biblioteca](https://github.com/cybersec-system-cloud/biblioteca), [Registro](https://github.com/cybersec-system-cloud/registro)
+
+### Lezione 6 (01/02/2021 - 4h)
+*Argomenti*: ingegnerizzazione servizi REST, gestione errori (status code) e configurazioni multi-porta
+
+*Esercizi*: [Punteggi-Engineered](https://github.com/cybersec-system-cloud/punteggi-engineered)
