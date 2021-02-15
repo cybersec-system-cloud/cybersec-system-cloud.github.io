@@ -41,4 +41,6 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 ### Lezione 7 (15/02/2021 - 4h)
 *Esercitazione*: ingegnerizzazione di servizi REST
 
-*Esercizi*: [Inventario-Engineered](https://github.com/cybersec-system-cloud/inventario-engineered), [Rubrica-Engineered](https://github.com/cybersec-system-cloud/rubrica-engineered)
+*Esercizi*: [Inventario-Engineered](https://github.com/cybersec-system-cloud/inventario-engineered), [Rubrica-Engineered](https://github.com/cybersec-system-cloud/rubrica-engineered), [LoveCalculator-Engineered](https://github.com/cybersec-system-cloud/lovecalculator-engineered), [Calcolatrice-Engineered](https://github.com/cybersec-system-cloud/calcolatrice-engineered)
+
+
