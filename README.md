@@ -46,6 +46,6 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 ### Lezione 8 (16/02/2021 - 4h) 
 *Argomenti*: utilizzare servizi REST, gestione errori (status code) e unit testing
 
-*Esercizi*: [Punteggi-Client](https://github.com/cybersec-system-cloud/punteggi-client)
+*Esercizi*: [Punteggi-Client](https://github.com/cybersec-system-cloud/punteggi-client), [Punteggi-Test](https://github.com/cybersec-system-cloud/punteggi-test)
 
 
