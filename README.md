@@ -43,6 +43,9 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 
 *Esercizi*: [Inventario-Engineered](https://github.com/cybersec-system-cloud/inventario-engineered), [Rubrica-Engineered](https://github.com/cybersec-system-cloud/rubrica-engineered), [LoveCalculator-Engineered](https://github.com/cybersec-system-cloud/lovecalculator-engineered), [Calcolatrice-Engineered](https://github.com/cybersec-system-cloud/calcolatrice-engineered), [Biblioteca-Engineered](https://github.com/cybersec-system-cloud/biblioteca-engineered), [Registro-Engineered](https://github.com/cybersec-system-cloud/registro-engineered)
 
+### Lezione 8 (16/02/2021 - 4h) 
+*Argomenti*: utilizzare servizi REST, gestione errori (status code) e unit testing
 
+*Esercizi*: [Punteggi-Client](https://github.com/cybersec-system-cloud/punteggi-client)
 
 
