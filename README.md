@@ -48,4 +48,9 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 
 *Esercizi*: [Punteggi-Client](https://github.com/cybersec-system-cloud/punteggi-client), [Punteggi-Test](https://github.com/cybersec-system-cloud/punteggi-test)
 
+### Lezione 9 (22/02/2021 - 4h)
+*Argomenti*: ripasso da programmazione Java a servizi REST (sviluppo, ingegnerizzazione e utilizzo) + esercitazione sull'utilizzo di servizi REST
+
+*Esercizi*: [Biblioteca-Client](https://github.com/cybersec-system-cloud/biblioteca-client)
+
 
