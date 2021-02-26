@@ -53,4 +53,9 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 
 *Esercizi*: [Biblioteca-Client](https://github.com/cybersec-system-cloud/biblioteca-client)
 
+### Lezione 9 (26/02/2021 - 2h)
+*Argomenti*: service-level agreement (SLA) + esercitazione sull'utilizzo di servizi REST
+
+*Esercizi*: [Rubrica-Client](https://github.com/cybersec-system-cloud/rubrica-client)
+
 
