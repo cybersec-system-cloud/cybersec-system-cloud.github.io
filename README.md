@@ -58,4 +58,7 @@ Docente: **Jacopo Soldani**, Università di Pisa ([http://pages.di.unipi.it/sold
 
 *Esercizi*: [Rubrica-Client](https://github.com/cybersec-system-cloud/rubrica-client)
 
+### Lezione 10 (01/03/2021 - 4h)
+*Argomenti*: orchestrazione di servizi
 
+*Esercizi* [IP2Geo](https://github.com/cybersec-system-cloud/ip2geo)
